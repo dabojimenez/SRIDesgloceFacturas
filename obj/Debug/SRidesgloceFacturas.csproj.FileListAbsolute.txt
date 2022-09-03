@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\SRidesgloceFacturas\bin\Debug\SRidesgloceFacturas.exe
+C:\Users\David\source\repos\SRidesgloceFacturas\bin\Debug\SRidesgloceFacturas.pdb
+C:\Users\David\source\repos\SRidesgloceFacturas\bin\Debug\Data.dll
+C:\Users\David\source\repos\SRidesgloceFacturas\bin\Debug\Logica.dll
+C:\Users\David\source\repos\SRidesgloceFacturas\bin\Debug\Data.pdb
+C:\Users\David\source\repos\SRidesgloceFacturas\bin\Debug\Logica.pdb
+C:\Users\David\source\repos\SRidesgloceFacturas\obj\Debug\SRidesgloceFacturas.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\SRidesgloceFacturas\obj\Debug\SRidesgloceFacturas.Form1.resources
+C:\Users\David\source\repos\SRidesgloceFacturas\obj\Debug\SRidesgloceFacturas.Properties.Resources.resources
+C:\Users\David\source\repos\SRidesgloceFacturas\obj\Debug\SRidesgloceFacturas.csproj.GenerateResource.cache
+C:\Users\David\source\repos\SRidesgloceFacturas\obj\Debug\SRidesgloceFacturas.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\SRidesgloceFacturas\obj\Debug\SRidesgloceFacturas.csproj.CopyComplete
+C:\Users\David\source\repos\SRidesgloceFacturas\obj\Debug\SRidesgloceFacturas.exe
+C:\Users\David\source\repos\SRidesgloceFacturas\obj\Debug\SRidesgloceFacturas.pdb
